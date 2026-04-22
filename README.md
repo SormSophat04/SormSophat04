@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning<br>🎯 Goals: AI Engineer</p>
+<p align="left">📚 I'm currently learning BUI<br>🎯 Goals: AI Engineer</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
