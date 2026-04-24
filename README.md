@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning BUI<br>🎯 Goals: AI Engineer</p>
+<p align="left">📚 I'm currently learning<br>🎯 Goals: AI Engineer</p>
 
 ###
 
