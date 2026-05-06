@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning<br>🎯 Goals: AI Engineer</p>
+<p align="left">📚 I'm currently learning BUI<br>🎯 Goals: AI Engineer</p>
 
 ###
 
@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -41,17 +39,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
